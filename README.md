@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @saumyatshah
-- 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning image processing and real time operating systems
+- 👀 I’m interested in embedded systems and vlsi design
 - 💞
 - 📫 How to reach me using saumya20shah@gmail.com
 
