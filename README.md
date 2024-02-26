@@ -36,6 +36,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="[https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png]" height="40" alt="SystemVerilog logo"  />
+  <img width="12" />
+  <img src="[https://static-00.iconduck.com/assets.00/file-type-verilog-icon-2048x2048-o00qmxo5.png]" height="40" alt="Verilog logo"  />
+  <img width="12" />
+  <img src="[https://www.xilinx.com/content/xilinx/en/products/design-tools/vivado/implementation/_jcr_content/root/parsysFullWidth/xilinxflexibleslab/xilinxflexibleslab-parsys/xilinxcolumns_673581498/childParsys-0/xilinxcolumns/childParsys-0/xilinximage.img.png/1675981741340.png]" height="40" alt="Vivado logo"  />
+  
 </div>
 
 ###
