@@ -3,7 +3,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Saumya%20Shah-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saumya-shah-22/)](https://www.linkedin.com/in/saumya-shah-22/)
+[![Linkedin Badge](https://img.shields.io/badge/-Saumya%20Shah-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saumya-shah-ss/)](https://www.linkedin.com/in/saumya-shah-ss/)
 [![Github Badge](https://img.shields.io/badge/-saumyatshah-000?style=flat&logo=Github&logoColor=white&link=https://github.com/saumyatshah)](https://github.com/saumyatshah)
 </div>
 
