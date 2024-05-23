@@ -4,12 +4,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+[![Linkedin Badge](https://img.shields.io/badge/-Saumya%20Shah-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saumya-shah-22/)](https://www.linkedin.com/in/saumya-shah-22/)
+[![Github Badge](https://img.shields.io/badge/-saumyatshah-000?style=flat&logo=Github&logoColor=white&link=https://github.com/saumyatshah)](https://github.com/saumyatshah)
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi there 👋, I'm Saumya Shah</h1>
 
 ###
 
@@ -17,32 +17,18 @@
 
 ###
 
-<p align="left">Saumya here<br><br>- 🔭 I am a pursuing MS in Electrical Engineering at the University of Texas at Dallas<br>- 📚 I'm a VLSI Design Engineer<br>-  </p>
+<p align="left"><br>- 🔭 I'm a passionate Electrical Engineer with a focus on VLSI design, embedded systems, and digital logic.<br>- 📚 Proficient in various programming languages including Verilog, C, C++, and SystemVerilog.<br>- 📚 Experience in industry-standard tools such as Cadence, ModelSim, and Synopsys.   </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
+<div align="center">
 <img height="50" src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png"/>
 <img height="50" src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png"/>
 <img height="50" src="https://mshr-h.gallerycdn.vsassets.io/extensions/mshr-h/veriloghdl/1.13.2/1707020468811/Microsoft.VisualStudio.Services.Icons.Default"/>
 <img height="50" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"/>
-
 <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP709eg4I7yNUF4N5WQI4z3-Yzut6bnACeMNVMjUDO4w&s"/>
-
 <img height="50" src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png"/>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-
-
-###
-
-
-
-###
+</div>
