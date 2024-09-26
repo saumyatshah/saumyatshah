@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://ucscextension-live-28cd95cf77884d15bb06-01c17c1.divio-media.net/images/VLSI_Semiconductor_Certifica.2e16d0ba.fill-2400x858-c100.jpg"  />
+  <img height="150" src="https://techovedas.com/wp-content/uploads/2023/07/1.jpg"  />
 
 
 
