@@ -39,7 +39,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyatshah&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saumyatshah&theme=radical)
 
-Feel free to explore my [GitHub repositories](https://github.com/saumyatshah) to see more of my work. If you'd like to get in touch, connect with me on [LinkedIn](https://www.linkedin.com/in/saumya-shah-22) or drop me an [email](mailto:saumya20shah@gmail.com).
+Feel free to explore my [GitHub repositories](https://github.com/saumyatshah) to see more of my work. If you'd like to get in touch, connect with me on [LinkedIn](https://www.linkedin.com/in/saumya-shah-ss/) or drop me an [email](mailto:saumya20shah@gmail.com).
 
 ---
 *Saumya Shah*
