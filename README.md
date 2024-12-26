@@ -38,11 +38,13 @@ I am a passionate Electrical Engineer with expertise in FPGA design, VLSI, embed
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saumyatshah&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyatshah&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saumyatshah&theme=radical)
-
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saumyatshah&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saumyatshah&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyatshah&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## 📫 Contact Me
 
