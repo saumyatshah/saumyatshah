@@ -29,6 +29,7 @@ I am a passionate Electrical Engineer with expertise in FPGA design, VLSI, embed
   <img height="50" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="Cadence" />
   <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP709eg4I7yNUF4N5WQI4z3-Yzut6bnACeMNVMjUDO4w&s" alt="Vivado" />
   <img height="50" src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png" alt="Synopsys" />
+  <img height="50" src="https://downloadlynet.ir/wp-content/uploads/2020/03/Quartus-Prime-.png" alt="Quartus" />
   <img height="50" src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" alt="Python" />
 </div>
 
